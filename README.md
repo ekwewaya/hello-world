@@ -1,7 +1,2 @@
-# helloworld
-
- People
- 
-    Guy
-       Writing softwares
-       
+# hello-world
+just another repository
